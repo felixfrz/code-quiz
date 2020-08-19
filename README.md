@@ -1,2 +1,2 @@
 # code-quiz
- This is a code quiz project
+ This is a code quiz project.
